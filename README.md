@@ -1,6 +1,9 @@
 # Anexos-TCC
 Anexos referentes ao trabalho de conclusão de curso - AVALIAÇÃO DA QUALIDADE DAS SENHAS E NOVOS MECANISMOS DE PROTEÇÃO À PRIVACIDADE
 ___________________________________
+## Analise dos dados do questionario TCC.pbix
+Arquivo PBIX (extensão do PowerBI) para análise no próprio aplicativo de BI.
+___________________________________
 ## Analise dos dados do questionario TCC.pdf
 Arquivo PDF contendo uma análise gráfica ainda mais detalhada, com gráficos modelados no PowerBI.
 ___________________________________
